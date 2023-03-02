@@ -1,0 +1,4 @@
+{
+  "extends": "@reandov/ts-config/base.json",
+  "include": ["src"]
+}
